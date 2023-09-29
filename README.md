@@ -1,2 +1,2 @@
-# PrepCourse-Jara
-Este es un repositorio del módulo2 prepcourse Jara
+Este proyecto es una prueba y veré en mi compu
+
